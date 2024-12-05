@@ -2,6 +2,8 @@
 
 This Python-based crypto bot interacts with the Aave protocol on the Avalanche blockchain to perform borrowing and depositing actions. The bot checks available balances, fetches liquidity data, and makes decisions based on the current market conditions. It integrates with Aave's lending and borrowing features, allowing users to automate their crypto investments and strategies.
 
+https://medium.com/@elliotpearce01/aave-api-effortless-liquidity-and-loan-operations-on-avalanche-071fc4c3a3b4
+
 ## Features
 
 - **Borrowing:** The bot can borrow assets from Aave by providing collateral. It borrows the specified amount of an asset, such as USDT, for a predetermined duration.
