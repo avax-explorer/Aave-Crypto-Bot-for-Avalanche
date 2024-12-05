@@ -1,4 +1,3 @@
-# Aave-Crypto-Bot-for-Avalanche
 # Aave Crypto Bot on Avalanche
 
 This Python-based crypto bot interacts with the Aave protocol on the Avalanche blockchain to perform borrowing and depositing actions. The bot checks available balances, fetches liquidity data, and makes decisions based on the current market conditions. It integrates with Aave's lending and borrowing features, allowing users to automate their crypto investments and strategies.
